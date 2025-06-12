@@ -16,7 +16,7 @@ output_feature_names = [
 ]
 
 # Input form
-st.title("Best Possible AI Setting")
+st.title("Press-1 Best Possible Setting through AI program")
 
 # Input from user
 remark_crack = st.selectbox("Remark (Crack)", options=["No Crack", "Crack"])
